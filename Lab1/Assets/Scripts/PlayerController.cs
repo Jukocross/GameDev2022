@@ -21,6 +21,7 @@ public class PlayerController : MonoBehaviour
     private int score = 0;
     private bool countScoreState = false;
     public Text restartText;
+    private bool restartState = false;
     // Start is called before the first frame update
     void  Start()
     {
@@ -57,6 +58,7 @@ public class PlayerController : MonoBehaviour
       {
           Debug.Log("Collided with Gomba!");
           restartText.text = "Enter \"R\" to restart";
+          restartState = true;
           Time.timeScale = 0;       
       }
   }
@@ -85,7 +87,7 @@ public class PlayerController : MonoBehaviour
             marioSprite.flipX = false;
         }
 
-        if (Input.GetKeyDown(KeyCode.R))
+        if (Input.GetKeyDown(KeyCode.R) && restartState)
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
@@ -93,7 +95,7 @@ public class PlayerController : MonoBehaviour
         if (!onGroundState && countScoreState)
         {
             if (Mathf.Abs(transform.position.x - enemyLocation.position.x) < 0.5f)
-            {
+            {   
                 countScoreState = false;
                 score++;
                 Debug.Log(score);
