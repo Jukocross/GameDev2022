@@ -18,11 +18,13 @@ public class CameraController : MonoBehaviour
         // z doesn't matter since the camera is orthographic
         Vector3 bottomLeft =  Camera.main.ViewportToWorldPoint(new  Vector3(0, 0, 0));
         viewportHalfWidth  =  Mathf.Abs(bottomLeft.x  -  this.transform.position.x);
-
+        Debug.Log("viewportHalfWidth is ");
+        Debug.Log(viewportHalfWidth.ToString());
         offset  =  this.transform.position.x  -  player.position.x;
         startX  =  this.transform.position.x;
         endX  =  endLimit.transform.position.x  -  viewportHalfWidth;
-        
+        Debug.Log("EndX is ");
+        Debug.Log(endX.ToString());
     }
 
     // Update is called once per frame
@@ -30,7 +32,10 @@ public class CameraController : MonoBehaviour
     {
         float desiredX =  player.position.x  +  offset;
         // check if desiredX is within startX and endX
-        if (desiredX  >  startX  &&  desiredX  <  endX)
-        this.transform.position  =  new  Vector3(desiredX, this.transform.position.y, this.transform.position.z);
+        if (desiredX  >  startX  &&  desiredX  <  endX){
+            this.transform.position  =  new  Vector3(desiredX, this.transform.position.y, this.transform.position.z);
+            Debug.Log("Updating Camera Position");
+        };
+        
     }
 }

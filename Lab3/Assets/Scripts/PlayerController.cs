@@ -25,6 +25,7 @@ public class PlayerController : MonoBehaviour
     private Animator marioAnimator;
     private AudioSource marioAudio;
     // Start is called before the first frame update
+    public ParticleSystem dustCloud;
     void  Start()
     {
         // Set to be 30 FPS
@@ -72,6 +73,7 @@ public class PlayerController : MonoBehaviour
   {
       if (col.gameObject.CompareTag("Ground"))
       {
+          dustCloud.Play();
           onGroundState = true; // back on ground
           countScoreState = false; // reset score state
           scoreText.text = "Score: " + score.ToString();
@@ -119,7 +121,7 @@ public class PlayerController : MonoBehaviour
                 score++;
                 Debug.Log(score);
             }
-        }        
+        }     
     }
 
     void  PlayJumpSound(){

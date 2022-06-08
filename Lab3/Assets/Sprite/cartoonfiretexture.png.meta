@@ -1,0 +1,1542 @@
+fileFormatVersion: 2
+guid: 82e93f2de1b057a44b81a83308e5a2d4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cartoonfiretexture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1372.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907da052f5af06d4b997dbf817940f18
+      internalID: 1450121492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1372.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c0dee087420954f83342ec53d3db97
+      internalID: 2093473176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1372.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bd12036d5a5f44eb901c1c732cc613
+      internalID: -1069856886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1372.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e1d638e518e4946b595159667881c2
+      internalID: -1429795971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1372.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91184169917c57b458dfaf1e50197962
+      internalID: -995366128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_5
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1372.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbc67de8b84b56458c24ee0d76789d1
+      internalID: -1005552243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_6
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1372.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8321382238ee0b1499ae03adf0aa9228
+      internalID: -1810895167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_7
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1372.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78954b23644c664099473e7dfaa13eb
+      internalID: -1166826179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb453dd3ac922c469a7641440c19d1f
+      internalID: -567951300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1176.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893bd53cf224d2c4791cb9ad5cfd6db5
+      internalID: -1207120567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1176.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a512893d6c4466a4690e793f3062cf5b
+      internalID: -621396567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1176.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e95afa9246545e4eaa715af1a184809
+      internalID: 1937123010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1176.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa469e72e4f494eaa7ec565b8bdcf7
+      internalID: 527501249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_13
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1176.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffe61aefa339364889101fbe6496442
+      internalID: -690686675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_14
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1176.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcef26100bbacf049a44cab2c1b05b8b
+      internalID: 744086074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_15
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1176.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f084fcc348d254593cebd8e74bc8bb
+      internalID: 1781550916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edfe4802cbd1b24ea7d09c92fa56f01
+      internalID: -231096202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 980.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3977a769f933bb540988f60a92626fa5
+      internalID: 561340113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 980.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31de0d809ccddda458e72782f4703479
+      internalID: 117318408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_19
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 980.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8e33be3c40aa247b083356a282d6b7
+      internalID: -53886076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_20
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 980.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0508259c5bc45a7409a5362b633ccd21
+      internalID: -1929731317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_21
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 980.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd511a2f29d91a044afe64790f658ecb
+      internalID: 1253451519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_22
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 980.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0ff285119b61542986176f38bc22c1
+      internalID: -676922274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_23
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 980.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd16e85ea5270a47afc6275a24e62ea
+      internalID: -411451980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc969b0c88e3f4749994c3b14d48009f
+      internalID: 579296688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 784.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3257fd5146d1614ab5c51d4ba07f6f4
+      internalID: -1154968165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 784.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad99d701012a8499dcb947c58b6385
+      internalID: 82275896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_27
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 784.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e1276cbb5080f498e93d0d695c6701
+      internalID: 1026541676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_28
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 784.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a4b7507e6b0ef40be22faee83a7912
+      internalID: -967858478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_29
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 784.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e030c1f16ae58904290aa4531a0d2827
+      internalID: 726343931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_30
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 784.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86832ec2c29f4a14eaf383a9b3f80f68
+      internalID: -2050458807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_31
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 784.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04b01eca3b11d64b868d3cff7ddcaf6
+      internalID: -856892119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5067e9a91e46014aae25b9c449d58e2
+      internalID: -257434868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 588.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29384848de934d42930d1b8bf6f163f
+      internalID: -808543563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_34
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 588.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c749b11cf23f4434fbcca01a16100b94
+      internalID: -621027399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_35
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 588.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db91da4057c3b944ba77ce9b91aa9b91
+      internalID: -640008846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_36
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 588.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c7be909e42fca4988c097244f52715
+      internalID: 968443807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_37
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 588.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf1ecdb9645c7e4ebbefa2254ec0063
+      internalID: 1813824981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_38
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 588.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663f936f221b028458acfaf6c868241e
+      internalID: -1134361527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_39
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 588.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1dc18f765b24844a78ea9d13a198f2
+      internalID: 1718972156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b672a325e686b46a08b62242c3520e
+      internalID: 1579047954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 392.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b1c9167158d5d49b77ff4ead0d4445
+      internalID: -124495338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 392.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7912d07b31d5b42a27fbf75a3cf9e7
+      internalID: -1738753293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_43
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 392.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794b251ff7fde804f96ba1eefbcc73fa
+      internalID: 394601504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_44
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 392.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2328c51dc72bdf74c988aabe479f63e9
+      internalID: -721840882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_45
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 392.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35e37d579bffe5459d19b449952b4a9
+      internalID: 2028422816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_46
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 392.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cedb0435870a9442850ae3b6d1cc954
+      internalID: -388309604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_47
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 392.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bab738edf8b7845936e98bd64171af
+      internalID: -158548853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba4522a39675834e80e708b52a156a6
+      internalID: 1519016947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_49
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 196.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5395cb45c2f6c84caf30ec65fd41d10
+      internalID: -544387713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_50
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 196.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fb182b19710cf4a8b0463f7b835fab
+      internalID: -2133009500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_51
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 196.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ac936b5b1373a47bb18ee1a43b7b20
+      internalID: -628639468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_52
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 196.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1746ab224061045469fadf45f59581a1
+      internalID: -2129092728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_53
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 196.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7531f066abda0ac439b8ff46558a972b
+      internalID: 1594477539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_54
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 196.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4933a804d710ac0449ab5f753f5b5f29
+      internalID: -144323954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_55
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 196.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284e2df9091ed69469b1a713e332174d
+      internalID: 1255783482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dd8203ad8754040880875d70e84254
+      internalID: -190894955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_57
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd19d303b58b89441acd3d9ff10e90a5
+      internalID: 782095658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_58
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3224068fd29699e459885c0193937697
+      internalID: 1355904306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_59
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cdd1514516ec24084073bc945a7c0c
+      internalID: 116402906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_60
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9766dae888c154682d793bc620422d
+      internalID: 635699113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_61
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7149b15ab8a98d4d8f38a89bf212f54
+      internalID: -334323673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_62
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d9410385501a2489ef47b8c59ebf43
+      internalID: 633632745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoonfiretexture_63
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 0.875
+        width: 196.125
+        height: 196.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033140027bbf3a24188952fe0d29aed2
+      internalID: 1984715906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cartoonfiretexture_3: -1429795971
+      cartoonfiretexture_56: -190894955
+      cartoonfiretexture_57: 782095658
+      cartoonfiretexture_1: 2093473176
+      cartoonfiretexture_4: -995366128
+      cartoonfiretexture_32: -257434868
+      cartoonfiretexture_30: -2050458807
+      cartoonfiretexture_53: 1594477539
+      cartoonfiretexture_23: -411451980
+      cartoonfiretexture_44: -721840882
+      cartoonfiretexture_20: -1929731317
+      cartoonfiretexture_33: -808543563
+      cartoonfiretexture_42: -1738753293
+      cartoonfiretexture_58: 1355904306
+      cartoonfiretexture_16: -231096202
+      cartoonfiretexture_22: -676922274
+      cartoonfiretexture_54: -144323954
+      cartoonfiretexture_37: 1813824981
+      cartoonfiretexture_59: 116402906
+      cartoonfiretexture_47: -158548853
+      cartoonfiretexture_55: 1255783482
+      cartoonfiretexture_36: 968443807
+      cartoonfiretexture_63: 1984715906
+      cartoonfiretexture_2: -1069856886
+      cartoonfiretexture_9: -1207120567
+      cartoonfiretexture_41: -124495338
+      cartoonfiretexture_17: 561340113
+      cartoonfiretexture_28: -967858478
+      cartoonfiretexture_15: 1781550916
+      cartoonfiretexture_43: 394601504
+      cartoonfiretexture_51: -628639468
+      cartoonfiretexture_60: 635699113
+      cartoonfiretexture_61: -334323673
+      cartoonfiretexture_13: -690686675
+      cartoonfiretexture_35: -640008846
+      cartoonfiretexture_45: 2028422816
+      cartoonfiretexture_19: -53886076
+      cartoonfiretexture_62: 633632745
+      cartoonfiretexture_21: 1253451519
+      cartoonfiretexture_46: -388309604
+      cartoonfiretexture_50: -2133009500
+      cartoonfiretexture_49: -544387713
+      cartoonfiretexture_7: -1166826179
+      cartoonfiretexture_10: -621396567
+      cartoonfiretexture_38: -1134361527
+      cartoonfiretexture_27: 1026541676
+      cartoonfiretexture_0: 1450121492
+      cartoonfiretexture_18: 117318408
+      cartoonfiretexture_14: 744086074
+      cartoonfiretexture_26: 82275896
+      cartoonfiretexture_34: -621027399
+      cartoonfiretexture_5: -1005552243
+      cartoonfiretexture_6: -1810895167
+      cartoonfiretexture_11: 1937123010
+      cartoonfiretexture_12: 527501249
+      cartoonfiretexture_29: 726343931
+      cartoonfiretexture_8: -567951300
+      cartoonfiretexture_52: -2129092728
+      cartoonfiretexture_24: 579296688
+      cartoonfiretexture_25: -1154968165
+      cartoonfiretexture_40: 1579047954
+      cartoonfiretexture_48: 1519016947
+      cartoonfiretexture_31: -856892119
+      cartoonfiretexture_39: 1718972156
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

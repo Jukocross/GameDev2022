@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ground
   - Enemy
+  - Ground
   - Obstacles
   layers:
   - Default
@@ -17,16 +17,16 @@ TagManager:
   - Obstacles
   - QuestionBox
   - Spawned
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - BG0
+  - BG1
+  - BG2
+  - BG3
+  - BG4
+  - BG5
+  - BG6
+  - BG7
+  - BG8
+  - BG9
   - 
   - 
   - 
@@ -42,7 +42,10 @@ TagManager:
   - 
   m_SortingLayers:
   - name: Background
-    uniqueID: 2286146511
+    uniqueID: 3703754857
+    locked: 0
+  - name: Background 2
+    uniqueID: 1924253879
     locked: 0
   - name: Default
     uniqueID: 0
